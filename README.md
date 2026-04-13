@@ -16,7 +16,7 @@ Daily-updated dataset of available and resale .christmas one-word domains from U
 
 **Public extract:** 9,485 rows · **Live catalog:** 9,485 domains
 
-**Last updated:** 2026-04-12  
+**Last updated:** 2026-04-13  
 **Canonical page:** `https://unique.domains/domains/tld/christmas`  
 **Best for:** founders, investors, studios
 
@@ -75,7 +75,7 @@ print(df.head())
 | ace.christmas        | premium   | $812.50     | $812.50       | 88             | 57     | 3      | name.com                                 |
 | sam.christmas        | available | $49.98      | —             | 80             | 57     | 3      | namecheap                                |
 | fantastic.christmas  | resell    | —           | —             | 88             | 62     | 9      | Spaceship, Inc.                          |
-| alpha.christmas      | premium   | $2,500      | $2,500        | 90             | 54     | 5      | name.com                                 |
+| alpha.christmas      | premium   | $2,500      | $2,500        | 90             | 53     | 5      | name.com                                 |
 | data.christmas       | available | $49.98      | —             | 84             | 56     | 4      | namecheap                                |
 | local.christmas      | resell    | —           | —             | 102            | 54     | 5      | Key-Systems LLC                          |
 | art.christmas        | premium   | $2,600      | $2,600        | 90             | 52     | 3      | namecheap                                |
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .CHRISTMAS One-Word Domains*. Version 2026-04-12. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .CHRISTMAS One-Word Domains*. Version 2026-04-13. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
