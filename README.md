@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .christmas one-word domains
 
 **Public extract:** 1,000 rows · **Live catalog:** 12,459 domains · **Median ask:** $128.97 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-15  
+**Last updated:** 2026-05-17  
 **Canonical page:** `https://unique.domains/domains/tld/christmas`  
 **Best for:** founders, investors, studios
 
@@ -64,10 +64,10 @@ print(df.head())
 
 | domain                | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                          |
 | --------------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------------------------- |
-| matcha.christmas      | available | $49.98    | —             | 86             | 39     | 6      | namecheap                          |
+| whynot.christmas      | available | $49.98    | —             | 74             | 44     | 7      | namecheap                          |
 | jobs.christmas        | resell    | —         | —             | 79             | 42     | 4      | Namecheap                          |
 | travelers.christmas   | premium   | $2,500    | —             | 58             | 61     | 9      | name.com                           |
-| whynot.christmas      | available | $49.98    | —             | 74             | 39     | 7      | namecheap                          |
+| matcha.christmas      | available | $49.98    | —             | 86             | 39     | 6      | namecheap                          |
 | girls.christmas       | resell    | —         | —             | 83             | 23     | 5      | Cronon GmbH                        |
 | stories.christmas     | premium   | $2,500    | —             | 58             | 36     | 7      | name.com                           |
 | prompts.christmas     | available | $34.99    | $34.99        | 54             | 39     | 7      | namesilo                           |
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .CHRISTMAS One-Word Domains*. Version 2026-05-15. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .CHRISTMAS One-Word Domains*. Version 2026-05-17. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
