@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .christmas one-word domains
 
 **Public extract:** 1,000 rows · **Live catalog:** 12,459 domains · **Median ask:** $128.97 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-17  
+**Last updated:** 2026-05-27  
 **Canonical page:** `https://unique.domains/domains/tld/christmas`  
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain                | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                          |
-| --------------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------------------------- |
-| whynot.christmas      | available | $49.98    | —             | 74             | 44     | 7      | namecheap                          |
-| jobs.christmas        | resell    | —         | —             | 79             | 42     | 4      | Namecheap                          |
-| travelers.christmas   | premium   | $2,500    | —             | 58             | 61     | 9      | name.com                           |
-| matcha.christmas      | available | $49.98    | —             | 86             | 39     | 6      | namecheap                          |
-| girls.christmas       | resell    | —         | —             | 83             | 23     | 5      | Cronon GmbH                        |
-| stories.christmas     | premium   | $2,500    | —             | 58             | 36     | 7      | name.com                           |
-| prompts.christmas     | available | $34.99    | $34.99        | 54             | 39     | 7      | namesilo                           |
-| sing.christmas        | resell    | —         | —             | 78             | 21     | 4      | Global Domains International, Inc. |
-| brands.christmas      | premium   | $2,500    | —             | 62             | 28     | 6      | name.com                           |
-| etc.christmas         | available | $49.98    | —             | 58             | 34     | 3      | namecheap                          |
-| children.christmas    | resell    | —         | —             | 68             | 21     | 8      | Global Domains International, Inc. |
-| photos.christmas      | premium   | $812.50   | —             | 54             | 28     | 6      | name.com                           |
-| teams.christmas       | available | $49.98    | —             | 62             | 32     | 5      | namecheap                          |
-| Trex.christmas        | premium   | $2,800    | $2,800        | 80             | 24     | 5      | namecheap                          |
-| letsgo.christmas      | available | $49.98    | —             | 57             | 31     | 7      | namecheap                          |
-| stadia.christmas      | premium   | $2,500    | —             | 66             | 22     | 6      | name.com                           |
-| solutions.christmas   | available | $49.98    | —             | 56             | 31     | 9      | namecheap                          |
-| bills.christmas       | premium   | $2,500    | —             | 54             | 19     | 5      | name.com                           |
-| inspiration.christmas | available | $49.98    | —             | 88             | 30     | 11     | namecheap                          |
-| hats.christmas        | premium   | $812.50   | —             | 65             | 15     | 4      | name.com                           |
+| domain              | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                          |
+| ------------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------------------------- |
+| whynot.christmas    | available | $49.98    | —             | 74             | 44     | 7      | namecheap                          |
+| jobs.christmas      | resell    | —         | —             | 79             | 42     | 4      | Namecheap                          |
+| travelers.christmas | premium   | $2,500    | —             | 58             | 61     | 9      | name.com                           |
+| matcha.christmas    | available | $49.98    | —             | 86             | 39     | 6      | namecheap                          |
+| girls.christmas     | resell    | —         | —             | 83             | 23     | 5      | Cronon GmbH                        |
+| stories.christmas   | premium   | $2,500    | —             | 58             | 36     | 7      | name.com                           |
+| prompts.christmas   | available | $34.99    | $34.99        | 54             | 39     | 7      | namesilo                           |
+| sing.christmas      | resell    | —         | —             | 78             | 21     | 4      | Global Domains International, Inc. |
+| brands.christmas    | premium   | $2,500    | —             | 62             | 28     | 6      | name.com                           |
+| teams.christmas     | available | $49.98    | —             | 62             | 32     | 5      | namecheap                          |
+| children.christmas  | resell    | —         | —             | 68             | 19     | 8      | Global Domains International, Inc. |
+| photos.christmas    | premium   | $812.50   | —             | 54             | 28     | 6      | name.com                           |
+| etc.christmas       | available | $49.98    | —             | 58             | 32     | 3      | namecheap                          |
+| Trex.christmas      | premium   | $2,800    | $2,800        | 80             | 24     | 5      | namecheap                          |
+| letsgo.christmas    | available | $49.98    | —             | 57             | 31     | 7      | namecheap                          |
+| stadia.christmas    | premium   | $2,500    | —             | 66             | 22     | 6      | name.com                           |
+| solutions.christmas | available | $49.98    | —             | 56             | 31     | 9      | namecheap                          |
+| bills.christmas     | premium   | $2,500    | —             | 54             | 19     | 5      | name.com                           |
+| SanDiego.christmas  | available | $34.99    | $34.99        | 74             | 29     | 9      | namesilo                           |
+| hats.christmas      | premium   | $812.50   | —             | 65             | 15     | 4      | name.com                           |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .CHRISTMAS One-Word Domains*. Version 2026-05-17. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .CHRISTMAS One-Word Domains*. Version 2026-05-27. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
