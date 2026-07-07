@@ -1,10 +1,10 @@
-# Available .CHRISTMAS One-Word Domains (12,459)
+# Available .CHRISTMAS One-Word Domains (12,460)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-12%2C459%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-12%2C460%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,12 +12,12 @@
 Daily-updated public extract of available and resale .christmas one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **12,459 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **12,460 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 12,459 domains · **Median ask:** $128.97 · **High-demand under $2,500:** 0
+**Public extract:** 1,000 rows · **Live catalog:** 12,460 domains · **Median ask:** $135.71 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-27  
-**Canonical page:** `https://unique.domains/domains/tld/christmas`  
+**Last updated:** 2026-07-07
+**Canonical page:** `https://unique.domains/domains/tld/christmas`
 **Best for:** founders, investors, studios
 
 ---
@@ -43,13 +43,13 @@ This repository is the public extract for Unique Domains' .CHRISTMAS one-word do
 
 ### Files
 
-- `christmas.csv` — public CSV extract (1,000 rows)
-- `christmas.json` — public JSON extract (1,000 rows)
-- `DATA_DICTIONARY.md` — field definitions for the exported files
-- `METHODOLOGY.md` — scope, refresh policy, and caveats
-- `CHANGELOG.md` — latest snapshot metadata
-- `CITATION.cff` — machine-readable dataset citation metadata
-- `LICENSE` — terms for the public extract
+- `christmas.csv`, public CSV extract (1,000 rows)
+- `christmas.json`, public JSON extract (1,000 rows)
+- `DATA_DICTIONARY.md`, field definitions for the exported files
+- `METHODOLOGY.md`, scope, refresh policy, and caveats
+- `CHANGELOG.md`, latest snapshot metadata
+- `CITATION.cff`, machine-readable dataset citation metadata
+- `LICENSE`, terms for the public extract
 
 ## 🧭 Quick start
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain              | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                          |
-| ------------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------------------------- |
-| whynot.christmas    | available | $49.98    | —             | 74             | 44     | 7      | namecheap                          |
-| jobs.christmas      | resell    | —         | —             | 79             | 42     | 4      | Namecheap                          |
-| travelers.christmas | premium   | $2,500    | —             | 58             | 61     | 9      | name.com                           |
-| matcha.christmas    | available | $49.98    | —             | 86             | 39     | 6      | namecheap                          |
-| girls.christmas     | resell    | —         | —             | 83             | 23     | 5      | Cronon GmbH                        |
-| stories.christmas   | premium   | $2,500    | —             | 58             | 36     | 7      | name.com                           |
-| prompts.christmas   | available | $34.99    | $34.99        | 54             | 39     | 7      | namesilo                           |
-| sing.christmas      | resell    | —         | —             | 78             | 21     | 4      | Global Domains International, Inc. |
-| brands.christmas    | premium   | $2,500    | —             | 62             | 28     | 6      | name.com                           |
-| teams.christmas     | available | $49.98    | —             | 62             | 32     | 5      | namecheap                          |
-| children.christmas  | resell    | —         | —             | 68             | 19     | 8      | Global Domains International, Inc. |
-| photos.christmas    | premium   | $812.50   | —             | 54             | 28     | 6      | name.com                           |
-| etc.christmas       | available | $49.98    | —             | 58             | 32     | 3      | namecheap                          |
-| Trex.christmas      | premium   | $2,800    | $2,800        | 80             | 24     | 5      | namecheap                          |
-| letsgo.christmas    | available | $49.98    | —             | 57             | 31     | 7      | namecheap                          |
-| stadia.christmas    | premium   | $2,500    | —             | 66             | 22     | 6      | name.com                           |
-| solutions.christmas | available | $49.98    | —             | 56             | 31     | 9      | namecheap                          |
-| bills.christmas     | premium   | $2,500    | —             | 54             | 19     | 5      | name.com                           |
-| SanDiego.christmas  | available | $34.99    | $34.99        | 74             | 29     | 9      | namesilo                           |
-| hats.christmas      | premium   | $812.50   | —             | 65             | 15     | 4      | name.com                           |
+| domain            | status    | ask_price | renewal_price | attractiveness | demand | length | registrar       |
+| ----------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------- |
+| act.christmas     | available | $34.99    | $34.99        | high           | low    | 3      | namesilo        |
+| busy.christmas    | resell    | —         | —             | high           | low    | 4      | Spaceship, Inc. |
+| bank.christmas    | premium   | $49.98    | —             | high           | medium | 4      | namecheap       |
+| ate.christmas     | available | $34.99    | $34.99        | high           | low    | 3      | namesilo        |
+| capital.christmas | resell    | —         | —             | high           | medium | 7      | Namecheap       |
+| bars.christmas    | premium   | $2,500    | —             | high           | low    | 4      | name.com        |
+| axe.christmas     | available | $34.99    | $34.99        | medium         | low    | 3      | namesilo        |
+| ever.christmas    | premium   | $2,500    | —             | high           | medium | 4      | name.com        |
+| few.christmas     | available | $34.99    | $34.99        | high           | low    | 3      | namesilo        |
+| gold.christmas    | premium   | $2,600    | $2,600        | high           | medium | 4      | namecheap       |
+| gun.christmas     | available | $34.99    | $34.99        | medium         | low    | 3      | namesilo        |
+| gray.christmas    | premium   | $2,500    | —             | medium         | low    | 4      | name.com        |
+| ivy.christmas     | available | $34.99    | $34.99        | high           | low    | 3      | namesilo        |
+| mono.christmas    | premium   | $2,500    | —             | high           | low    | 4      | name.com        |
+| lap.christmas     | available | $34.99    | $34.99        | high           | low    | 3      | namesilo        |
+| most.christmas    | premium   | $2,500    | —             | high           | low    | 4      | name.com        |
+| oil.christmas     | available | $34.99    | $34.99        | high           | low    | 3      | namesilo        |
+| rush.christmas    | premium   | $2,500    | —             | medium         | low    | 4      | name.com        |
+| out.christmas     | available | $34.99    | $34.99        | high           | low    | 3      | namesilo        |
+| side.christmas    | premium   | $2,500    | —             | high           | low    | 4      | name.com        |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 12,459 live domains                        |
+| 1,000-row public sample | 12,460 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
 | Basic exported fields   | 0 high-demand names under $2,500           |
 | No persistence          | Radar, saved search, and alerts            |
@@ -105,27 +105,27 @@ If this sample already feels useful, Unique Domains is where the exact search be
 
 ## 🧱 Field summary
 
-- `domain` — Fully qualified domain name.
-- `status` — Current acquisition state for the domain in the public extract.
-- `purchase_price` — Visible purchase price when available.
-- `renewal_price` — Visible renewal price when available.
-- `attractiveness` — Composite naming score used as a decision-support signal.
-- `demand` — Relative buyer-pressure score when available.
-- `length` — Character count without the TLD.
-- `registrar` — Registrar name when known.
-- `created_at` — Creation timestamp when known.
-- `expires_at` — Expiry timestamp when known.
+- `domain`, Fully qualified domain name.
+- `status`, Current acquisition state for the domain in the public extract.
+- `purchase_price`, Visible purchase price when available.
+- `renewal_price`, Visible renewal price when available.
+- `attractiveness`, Public composite naming band used as a decision-support signal.
+- `demand`, Public buyer-pressure band when available.
+- `length`, Character count without the TLD.
+- `registrar`, Registrar name when known.
+- `created_at`, Creation timestamp when known.
+- `expires_at`, Expiry timestamp when known.
 
 See [DATA_DICTIONARY.md](./DATA_DICTIONARY.md) for full definitions and types.
 
 ## ⚠️ Methodology and caveats
 
-This set is focused entirely on one-word names in the .christmas extension. The selection ranges from place names like lisbon.christmas to generic words like fruit.christmas and steak.christmas, plus terms that may carry clear trademark risk such as Nokia.christmas and Sony.christmas. For founders, the main question is whether a .christmas ending fits a seasonal, promotional, retail, travel, or event-led brand. For investors, the key is pricing discipline: the median ask is 128.97, so stronger names should justify any premium with clear commercial relevance, memorability, and clean use potential.
+This set of one-word .christmas domains blends everyday compounds like restassured.christmas and makesense.christmas with playful, brand-style names like JollyRoger.christmas and cuddleup.christmas. With 12,460 names and a median ask around $135.71, the extension gives holiday, gift, and seasonal ventures an instantly recognizable signal. When comparing these domains, weigh spelling simplicity, memorability, and how naturally the word pairs with '.christmas' — factors that matter more than price alone for long-term brand value.
 
-- All names in this set use the .christmas extension
-- Median ask across the selection is 128.97
-- Generic words tend to be safer than branded terms
-- Seasonal fit matters more here than broad resale appeal
+- 12,460 one-word .christmas domain names in this selection
+- Median ask near $135.71 across the set
+- Brandable, festive names like CuddleUp and JollyRoger
+- Updated daily to reflect current .christmas listings
 
 See [METHODOLOGY.md](./METHODOLOGY.md) for the full methodology reference.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .CHRISTMAS One-Word Domains*. Version 2026-05-27. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .CHRISTMAS One-Word Domains*. Version 2026-07-07. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
