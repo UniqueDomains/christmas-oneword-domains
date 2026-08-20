@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .christmas one-word domains
 
 **Public extract:** 1,000 rows · **Live catalog:** 17,425 domains · **Median ask:** $86.34 · **High-demand under $2,500:** 29
 
-**Last updated:** 2026-08-19
+**Last updated:** 2026-08-20
 **Canonical page:** `https://unique.domains/domains/tld/christmas`
 **Best for:** founders, investors, studios
 
@@ -64,9 +64,6 @@ print(df.head())
 
 | domain            | status    | ask_price | renewal_price | attractiveness | demand | length | registrar       |
 | ----------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------- |
-| out.christmas     | available | $34.99    | $34.99        | high           | low    | 3      | namesilo        |
-| okay.christmas    | available | $34.99    | $34.99        | high           | low    | 4      | namesilo        |
-| special.christmas | premium   | $812.50   | —             | high           | low    | 7      | name.com        |
 | abo.christmas     | available | $1.80     | $49.98        | low            | low    | 3      | namecheap       |
 | busy.christmas    | resell    | —         | —             | high           | low    | 4      | Spaceship, Inc. |
 | bank.christmas    | premium   | $49.98    | —             | high           | medium | 4      | namecheap       |
@@ -84,6 +81,9 @@ print(df.head())
 | cxl.christmas     | available | $1.80     | $49.98        | low            | low    | 3      | namecheap       |
 | most.christmas    | premium   | $2,500    | —             | high           | low    | 4      | name.com        |
 | few.christmas     | available | $34.99    | $34.99        | high           | low    | 3      | namesilo        |
+| rush.christmas    | premium   | $2,500    | —             | medium         | low    | 4      | name.com        |
+| gun.christmas     | available | $34.99    | $34.99        | medium         | low    | 3      | namesilo        |
+| side.christmas    | premium   | $2,500    | —             | high           | low    | 4      | name.com        |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .CHRISTMAS One-Word Domains*. Version 2026-08-19. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .CHRISTMAS One-Word Domains*. Version 2026-08-20. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
