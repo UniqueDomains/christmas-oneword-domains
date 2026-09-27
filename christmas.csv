@@ -45,6 +45,7 @@ c0255e51-2925-488e-b277-bd90d35ee39c,seaside.christmas,available,34.99,34.99,hig
 a806385a-b002-41a3-b5c2-2a2098ecf054,kweek.christmas,available,1.8,49.98,medium,low,5,namecheap,,,21/09/2026 18:35
 01283b24-53f5-4db1-ab15-3c2934817a5a,internally.christmas,available,1.8,49.98,medium,low,10,namecheap,,,15/09/2026 09:01
 1aae816f-d174-4b47-b399-e594d1578a5b,excess.christmas,available,1.8,49.98,high,low,6,namecheap,,,17/08/2026 16:06
+6f5e4f3d-0986-43f8-a7ee-7fa778b72f35,hobbs.christmas,available,1.8,49.98,high,low,5,namecheap,,,27/09/2026 04:26
 d96f80ff-fdad-48a4-bb01-62adb11b7611,untracked.christmas,available,1.8,49.98,medium,low,9,namecheap,,,08/09/2026 10:31
 389fad97-f0b9-4fdb-9796-049b5602f54b,iterative.christmas,available,1.8,49.98,high,low,9,namecheap,,,22/08/2026 11:39
 a77e7861-382f-4856-84ae-fbb58084f997,leech.christmas,available,34.99,34.99,medium,low,5,namesilo,,,24/09/2026 06:16
@@ -85,6 +86,7 @@ accfd56c-4ee0-4990-8302-2a8eb246a3c5,zombi.christmas,available,34.99,34.99,mediu
 fb266cf9-4bb4-4d47-a04f-15416df3d718,krubi.christmas,available,34.99,34.99,medium,low,5,namesilo,,,18/09/2026 22:48
 2e9d7132-3a0b-4e08-92cf-acb8eb61573f,woozy.christmas,available,1.8,49.98,medium,low,5,namecheap,,,14/08/2026 14:06
 c46f1517-67e6-43f9-8cf4-901c5f02a1e5,manufacturing.christmas,available,34.99,34.99,high,low,13,namesilo,,,23/09/2026 06:48
+c865a43a-8165-49aa-a7bd-5ac3e3d30800,safer.christmas,available,34.99,34.99,medium,low,5,namesilo,,,27/09/2026 03:09
 58addb45-b6f8-43c0-acc2-c145bc5d93af,lucullan.christmas,available,1.8,49.98,high,low,8,namecheap,,,24/08/2026 11:00
 c3e8d009-17c0-472d-97f7-6481a603e201,stubborn.christmas,available,1.8,49.98,high,low,8,namecheap,,,25/09/2026 23:51
 b8d8fa93-1c12-42e6-8b35-92fbb8f50d03,squanderer.christmas,available,1.8,49.98,medium,low,10,namecheap,,,09/09/2026 02:39
@@ -170,7 +172,7 @@ c3f6a74d-8b44-4283-8869-ffc7a019ee0c,phlegmatic.christmas,available,1.8,49.98,me
 a9db78b1-43f6-4760-8723-a953c2366dcd,dactylic.christmas,available,49.99,61.99,medium,low,8,name.com,,,13/08/2026 15:27
 18e01b6c-5a32-4090-b15b-cea512488a4f,glib.christmas,available,1.8,49.98,high,low,4,namecheap,,,20/08/2026 14:26
 61caa713-c0de-48b7-af7e-03c4de5e4019,ssr.christmas,available,34.99,34.99,high,low,3,namesilo,,,25/09/2026 12:03
-7c9e619b-9965-43de-b749-b753ff0428b8,portable.christmas,available,34.99,34.99,high,low,8,namesilo,,,
+7c9e619b-9965-43de-b749-b753ff0428b8,portable.christmas,available,1.8,49.98,high,low,8,namecheap,,,27/09/2026 04:40
 5cb66db8-4d2b-4a23-8d4d-7e2ada1d7081,applewood.christmas,available,34.99,34.99,medium,low,9,namesilo,,,19/09/2026 21:44
 94eaefea-93c3-4bcf-b5fb-42568416e6e8,assayer.christmas,available,34.99,34.99,medium,low,7,namesilo,,,20/09/2026 15:59
 83fd0ceb-4886-4f76-a9dc-21b98672ab18,lucid.christmas,available,1.8,49.98,high,medium,5,namecheap,,,13/08/2026 09:42
@@ -179,7 +181,7 @@ a9db78b1-43f6-4760-8723-a953c2366dcd,dactylic.christmas,available,49.99,61.99,me
 c43d9faa-6cae-4e2a-9cfb-88b7964608aa,mixed.christmas,available,1.8,49.98,high,low,5,namecheap,,,19/09/2026 12:23
 4f41b47e-75b6-434d-88b5-aa8418ce96e3,outdoors.christmas,available,34.99,34.99,high,low,8,namesilo,,,21/09/2026 23:54
 7559bbb7-df93-43d7-9c3f-fcb1e8851423,loth.christmas,available,1.8,49.98,medium,low,4,namecheap,,,24/08/2026 08:19
-2de7e565-cfdc-4fd4-b484-aac7631a0f13,antioxidant.christmas,available,34.99,34.99,high,low,11,namesilo,,,
+2de7e565-cfdc-4fd4-b484-aac7631a0f13,antioxidant.christmas,available,34.99,34.99,high,low,11,namesilo,,,27/09/2026 06:38
 dee240d5-c5d9-4a90-8d82-bf8cd627ecf1,dday.christmas,available,34.99,34.99,high,low,5,namesilo,,,16/09/2026 12:39
 96c16716-3b1e-4218-82f2-8ad4a648cbee,aerobic.christmas,available,1.8,49.98,high,low,7,namecheap,,,21/09/2026 21:01
 252aaea7-9e3f-4a60-8986-2a4c7079c9d4,triple.christmas,available,34.99,34.99,high,low,6,namesilo,,,
@@ -201,8 +203,8 @@ fc5fb884-62fe-4326-b7ed-ec6f7778a067,moreover.christmas,available,1.8,49.98,high
 eb52d834-8d15-4f7d-ac7b-34f4c1cae46f,blunted.christmas,available,1.8,49.98,medium,low,7,namecheap,,,10/08/2026 16:17
 1fb0721d-7934-4fa7-a699-dfbe6f9ea39b,inflexibly.christmas,available,1.8,49.98,medium,low,10,namecheap,,,15/09/2026 08:16
 19a6b94e-5e25-4970-be79-d557be8b5b14,relationship.christmas,available,34.99,34.99,high,low,12,namesilo,,,
-5612a10b-969c-4b0e-bc90-9ef10716fa41,pale.christmas,available,34.99,34.99,high,low,4,namesilo,,,
-b067ec4d-ca66-4771-84f1-a6966849d946,passionate.christmas,available,34.99,34.99,high,low,10,namesilo,,,
+5612a10b-969c-4b0e-bc90-9ef10716fa41,pale.christmas,available,34.99,34.99,high,low,4,namesilo,,,27/09/2026 02:35
+b067ec4d-ca66-4771-84f1-a6966849d946,passionate.christmas,available,34.99,34.99,high,low,10,namesilo,,,27/09/2026 02:53
 231e2859-fe32-4b64-ace3-a9eca121e998,helium.christmas,available,1.8,49.98,high,low,6,namecheap,,,20/09/2026 22:31
 3d5def63-cfcb-4d10-a078-52c56a9b1338,alkeran.christmas,available,1.8,49.98,medium,low,7,namecheap,,,18/09/2026 08:31
 da920f81-dba7-4786-9dd3-f394c6b34a86,azactam.christmas,available,34.99,34.99,medium,low,7,namesilo,,,21/09/2026 10:59
@@ -261,6 +263,7 @@ b7805868-d656-4a9c-8235-4cff728c24be,chiefly.christmas,available,34.99,34.99,hig
 9dc6b795-86c4-4163-92ec-768511224ca6,triangle.christmas,available,34.99,34.99,high,low,8,namesilo,,,
 abbac8ea-35ee-4522-b224-a4fb23d35796,texan.christmas,available,1.8,49.98,high,low,5,namecheap,,,11/09/2026 12:15
 d1de5f64-418e-4142-857f-261d7179136c,wake.christmas,available,34.99,34.99,high,low,4,namesilo,,,22/09/2026 14:42
+5b87fffe-a08d-46e3-88c5-0c7a454e6dac,alton.christmas,available,34.99,34.99,high,low,5,namesilo,,,27/09/2026 07:13
 0a05cf9c-6d30-4844-bae0-b094d1f22c8b,stepmother.christmas,available,49.98,,high,low,10,namecheap,,,
 df624c3e-57ca-4ec9-a3d9-0e3429265741,wakening.christmas,available,34.99,34.99,high,low,8,namesilo,,,
 269e7f98-7175-43ae-851d-e1b42b06cd66,stand.christmas,available,34.99,34.99,high,low,5,namesilo,,,
@@ -270,7 +273,7 @@ c441dfa7-58c1-49de-80b8-730d98136c2f,inspection.christmas,available,34.99,34.99,
 2685ade3-7e92-4599-b0bc-3d5a8a12086c,chalkboards.christmas,available,34.99,34.99,low,low,11,namesilo,,,19/09/2026 23:25
 61d48296-f5d4-44a5-9aaf-773fc232cbc8,exhusband.christmas,available,1.8,49.98,medium,low,10,namecheap,,,17/08/2026 15:21
 aaa19a37-b675-4e2a-a718-a064c73f650b,distract.christmas,available,34.99,34.99,high,low,8,namesilo,,,
-ce6d0c1b-238a-4dc2-bc2f-8a89ab81933a,prone.christmas,available,34.99,34.99,medium,low,5,namesilo,,,
+ce6d0c1b-238a-4dc2-bc2f-8a89ab81933a,prone.christmas,available,34.99,34.99,medium,low,5,namesilo,,,27/09/2026 07:37
 008d8e39-e4cd-4084-9be0-3cc4d73a24f1,flatness.christmas,available,1.8,49.98,medium,low,8,namecheap,,,24/08/2026 17:17
 021e6549-4601-4223-ba48-3152597b7066,puku.christmas,available,34.99,34.99,medium,low,4,namesilo,,,17/09/2026 07:35
 92be1503-23f2-4db2-8ecc-77cba6e06abc,either.christmas,available,49.98,,medium,low,6,namecheap,,,
@@ -423,7 +426,7 @@ bfcfaf28-8777-45db-84c6-23a5243f7974,glove.christmas,available,34.99,34.99,high,
 9f66d66e-9d59-49c3-a1b3-844357bbf306,ridden.christmas,available,34.99,34.99,high,low,6,namesilo,,,
 5e65323d-1219-4606-bb51-37608a074348,glance.christmas,available,34.99,34.99,high,low,6,namesilo,,,
 db0ce26a-1142-4c96-844e-ed360c4ebc92,wakeful.christmas,available,1.8,49.98,medium,low,7,namecheap,,,04/09/2026 16:03
-c57e6f98-6c6c-4e7d-a3de-7e6bdbdb4eef,child.christmas,resell,,,high,low,5,"Global Domains International, Inc. DBA DomainCostClub.com",14/05/2017 17:24,14/05/2027 23:59,25/09/2026 20:33
+c57e6f98-6c6c-4e7d-a3de-7e6bdbdb4eef,child.christmas,resell,,,high,low,5,"Global Domains International, Inc. DBA DomainCostClub.com",14/05/2017 17:24,14/05/2027 23:59,26/09/2026 04:54
 f2ba569a-9abf-470c-930e-5b9be634aadb,perpetual.christmas,available,1.8,49.98,high,low,9,namecheap,,,
 23182c44-91f2-442f-b89c-58009157cd32,bassinet.christmas,available,1.8,49.98,medium,low,8,namecheap,,,22/09/2026 12:23
 4e25ee7c-ab71-4710-afd7-f50221e3e2ff,tempting.christmas,available,34.99,34.99,high,low,8,namesilo,,,22/09/2026 01:44
@@ -442,7 +445,7 @@ ac4d7868-451d-475e-9de4-e415e64ccb84,cornflower.christmas,available,34.99,34.99,
 10cc5058-1ce2-428c-aa72-7f0c4d9ad378,beauvoir.christmas,available,34.99,34.99,high,low,8,namesilo,,,22/09/2026 22:24
 d8ee967a-96d8-4700-9b5a-e87e2b35ce04,nooky.christmas,available,1.8,49.98,medium,low,5,namecheap,,,18/08/2026 17:29
 736d2667-2951-4654-8960-4244e370143f,canton.christmas,available,34.99,34.99,high,low,6,namesilo,,,23/09/2026 16:10
-0a45c3c8-68b1-48fd-ac2f-965a998f22f1,pleasant.christmas,available,34.99,34.99,high,low,8,namesilo,,,
+0a45c3c8-68b1-48fd-ac2f-965a998f22f1,pleasant.christmas,available,34.99,34.99,high,low,8,namesilo,,,27/09/2026 04:06
 68c8430c-8921-4d18-b64e-8f8f2adb1e2d,sayonara.christmas,available,34.99,34.99,high,low,8,namesilo,,,17/09/2026 08:15
 645833d4-a66f-42bb-8675-297c035bc80c,russian.christmas,premium,812.5,,high,low,7,name.com,,,
 a3014fed-9c19-4923-bf34-d3d5b19152c0,marion.christmas,available,34.99,34.99,high,low,6,namesilo,,,25/09/2026 14:37
@@ -467,6 +470,7 @@ e5a49d8e-c592-43a6-a1d3-72d6bb708ba5,provincial.christmas,available,1.8,49.98,hi
 11cd652b-0739-411f-be69-e11556307cf3,austin.christmas,premium,2660,2660,high,low,6,namesilo,,,21/09/2026 04:43
 c0e2cfd5-992c-48fd-95c5-06996713308c,somali.christmas,available,1.8,49.98,high,low,6,namecheap,,,10/09/2026 13:58
 10b4bda5-4a4a-4c6e-a272-2af41e53e7db,pinkish.christmas,available,1.8,49.98,high,medium,7,namecheap,,,08/09/2026 19:46
+0c81dc41-2455-4e6f-91d4-c82953e9aeef,exam.christmas,available,1.8,49.98,high,low,4,namecheap,,,27/09/2026 03:51
 baa3a928-1867-4d7c-9e32-c42a4a1a9eae,nevus.christmas,available,1.8,49.98,medium,low,5,namecheap,,,23/09/2026 21:15
 d9ab17e1-13d2-410c-896a-016044030c57,consent.christmas,available,1.8,49.98,high,low,7,namecheap,,,08/09/2026 13:17
 3f66b827-0181-42b0-82ea-0709b516c436,delivered.christmas,available,1.8,49.98,medium,low,9,namecheap,,,25/09/2026 18:04
@@ -550,7 +554,7 @@ f5675a98-1f36-4421-8176-947d3e55497a,sumptuary.christmas,available,1.8,49.98,med
 654b5a2f-cc0c-48e3-ab7b-7a9d3b61c199,atacama.christmas,available,34.99,34.99,high,low,7,namesilo,,,
 bf8b8218-01f5-43be-8117-e4be476dffe8,amylase.christmas,available,1.8,49.98,medium,low,7,namecheap,,,19/09/2026 00:30
 0efad813-708c-4595-8537-49c385d144ca,eagre.christmas,available,1.8,49.98,medium,low,5,namecheap,,,14/08/2026 22:16
-7843d2b9-8f3a-4bec-b576-512ec754558f,missile.christmas,available,34.99,34.99,high,low,7,namesilo,,,
+7843d2b9-8f3a-4bec-b576-512ec754558f,missile.christmas,available,34.99,34.99,high,low,7,namesilo,,,27/09/2026 07:17
 20c64172-d433-424b-9ac1-f5e0cfe22097,incomplete.christmas,available,1.8,49.98,high,low,10,namecheap,,,22/08/2026 01:53
 c7640af3-4cd3-48c1-b7bf-673ea6aa45fc,plummet.christmas,available,1.8,49.98,medium,low,7,namecheap,,,08/09/2026 21:42
 1a4c71b3-b846-41db-a61f-ac8f5b2cba5b,caught.christmas,available,34.99,34.99,high,low,6,namesilo,,,
@@ -632,7 +636,7 @@ b222df6d-ab8a-40a9-bc5f-70dd76bda96f,alchemical.christmas,available,1.8,49.98,hi
 75c5b6b7-8d8a-47ff-9d27-5a1c3d11efc9,impending.christmas,available,1.8,49.98,high,low,9,namecheap,,,21/08/2026 20:59
 e684bef2-adb8-4bb4-863a-d260cb68c912,likeable.christmas,available,1.8,49.98,high,low,8,namecheap,,,23/08/2026 06:11
 26086803-295f-4293-9b5f-a87238e3b135,responder.christmas,available,34.99,34.99,high,low,9,namesilo,,,19/09/2026 12:12
-2abd1661-a6d2-445d-8f08-b76d17379aed,premier.christmas,premium,2500,,high,low,7,name.com,,,
+2abd1661-a6d2-445d-8f08-b76d17379aed,premier.christmas,premium,2660,2660,high,low,7,namesilo,,,27/09/2026 04:55
 e3c2549f-2e76-449b-8e92-3afe82181ee2,whereas.christmas,available,49.98,,high,low,7,namecheap,,,
 ea97fdb5-288b-441d-82b8-7e2c8465b2c5,motorist.christmas,available,34.99,34.99,high,low,8,namesilo,,,21/09/2026 07:26
 6b2db5b7-68d4-4037-80f8-f11ff361f16d,typo.christmas,available,1.8,49.98,high,low,4,namecheap,,,24/08/2026 07:23
@@ -742,6 +746,7 @@ a71df7f7-70cb-4326-8fee-1d54e435ec12,achievable.christmas,available,34.99,34.99,
 f4da7840-2e3e-4abb-9d03-6fc5676b4e72,cetaceous.christmas,available,1.8,49.98,medium,low,9,namecheap,,,12/08/2026 01:04
 0321cb17-77a6-4c13-99ee-896569074001,vexer.christmas,available,1.8,49.98,medium,low,5,namecheap,,,19/09/2026 10:52
 ef639c4d-422e-480e-8975-f1a241e0d0f6,reticular.christmas,available,1.8,49.98,medium,low,9,namecheap,,,09/09/2026 15:34
+75f3d36e-633a-451a-b070-17c91410108c,circumstances.christmas,available,34.99,34.99,medium,low,13,namesilo,,,27/09/2026 02:27
 8394b052-faf0-48b2-bb0b-b86f279b575d,stoker.christmas,available,34.99,34.99,medium,low,6,namesilo,,,16/09/2026 16:53
 a81e9eb3-f613-4297-813e-67b27963dd23,brakes.christmas,available,34.99,34.99,high,low,6,namesilo,,,24/09/2026 08:09
 4cbaa14b-eab7-4d45-8288-3ce565263421,lordless.christmas,available,1.8,49.98,low,low,8,namecheap,,,24/08/2026 09:52
@@ -850,8 +855,8 @@ f4d3870d-e943-44bf-aa44-b3fdc4648640,yearn.christmas,available,1.8,49.98,high,lo
 de085864-a5b3-4e85-85c7-bdeb1ad6adb1,permission.christmas,available,34.99,34.99,high,low,10,namesilo,,,25/09/2026 09:53
 330e8c3b-91bf-43a0-b82f-67007083d219,undefiled.christmas,available,1.8,49.98,medium,low,9,namecheap,,,12/09/2026 06:15
 c4070418-af6b-484a-9042-38e89521b39f,beamish.christmas,available,1.8,49.98,high,low,7,namecheap,,,09/08/2026 04:08
-986c681e-8975-4423-940c-c81ee0544870,designers.christmas,available,34.99,34.99,high,low,9,namesilo,,,19/09/2026 23:31
-37f0d892-d186-450c-ae83-204f847a36bd,creative.christmas,resell,,,high,medium,8,"Key-Systems, LLC",04/02/2026 16:59,04/02/2027 23:59,24/09/2026 01:39
+986c681e-8975-4423-940c-c81ee0544870,designers.christmas,available,34.99,34.99,high,low,9,namesilo,,,27/09/2026 02:12
+37f0d892-d186-450c-ae83-204f847a36bd,creative.christmas,resell,,,high,medium,8,"Key-Systems, LLC",04/02/2026 16:59,04/02/2027 23:59,26/09/2026 05:19
 9986080b-a484-498c-88b0-573568e42c3f,deary.christmas,available,49.99,61.99,high,low,5,name.com,,,13/08/2026 18:21
 0f279d28-2755-498d-ae15-30afbebee928,prompts.christmas,available,1.8,49.98,high,medium,7,namecheap,,,20/09/2026 08:06
 900a2dcd-089b-45d1-ac17-76aa963cdd2a,wittily.christmas,available,34.99,34.99,medium,low,7,namesilo,,,16/09/2026 11:35
@@ -871,6 +876,7 @@ dddbdcbc-dfa7-434a-a938-acb74df9d2aa,himself.christmas,available,34.99,34.99,med
 fbfe278d-6113-421f-a48e-5f90eb48ea08,trifid.christmas,available,1.8,49.98,medium,low,6,namecheap,,,11/09/2026 19:33
 0622661e-15cf-4fd9-8f1e-b8c838d27d0d,unwoven.christmas,available,1.8,49.98,medium,low,7,namecheap,,,12/09/2026 22:51
 562f0e61-e75d-43b8-b43c-0914dfc208b2,ethan.christmas,available,34.99,34.99,high,low,5,namesilo,,,25/09/2026 13:30
+57e6900d-199e-49dc-8ef7-cda53a8b4a65,passengers.christmas,available,34.99,34.99,medium,low,10,namesilo,,,27/09/2026 02:28
 5a8321fe-8a01-4580-a787-ebc33262f0e2,ads.christmas,available,,,high,medium,3,,,,
 aa2968ec-3ebf-41f4-94d5-ceade21ee8b0,amundsen.christmas,available,1.8,49.98,medium,low,8,namecheap,,,19/09/2026 00:12
 55eec585-7f6b-452b-88a1-5f775dc64cca,deducible.christmas,available,1.8,49.98,medium,low,9,namecheap,,,13/08/2026 22:25
@@ -885,6 +891,7 @@ eefb0f53-0114-45ff-9ce5-540b9336c8fd,frilly.christmas,available,1.8,49.98,medium
 afb730af-1e49-412d-bc9e-6decb8ee1490,difficulties.christmas,available,1.8,49.98,high,low,12,namecheap,,,17/09/2026 21:37
 89e1714e-8533-4627-97ae-a3b95e78d552,taunt.christmas,available,1.8,49.98,medium,low,5,namecheap,,,11/09/2026 09:13
 2944f0cf-66ab-44cb-8a3f-03e417795956,orphic.christmas,available,1.8,49.98,high,low,6,namecheap,,,03/09/2026 12:27
+7b3b4917-fbe0-4ecb-bdea-cbecd264ef14,fulbright.christmas,available,1.8,49.98,high,low,9,namecheap,,,27/09/2026 04:04
 95155d1a-77f6-4a65-9ddf-a9c368231d35,andrea.christmas,available,34.99,34.99,high,low,6,namesilo,,,25/09/2026 13:32
 9c8c3de7-fc80-4e63-93a6-8684f446604f,visible.christmas,available,34.99,34.99,high,low,7,namesilo,,,
 daec531a-a917-4fd7-a5a2-3dc252a50360,dupont.christmas,premium,2660,2660,high,high,6,namesilo,,,26/09/2026 03:27
@@ -897,10 +904,11 @@ a13a574c-8dd2-461f-8bf6-812e3a81306b,affective.christmas,available,1.8,49.98,hig
 4698f4d2-bfd1-415c-b845-aff3123ffd27,bankers.christmas,premium,2660,2660,medium,low,7,namesilo,,,20/09/2026 11:37
 a23513db-72a4-45a0-855c-169a9caaa23c,balboa.christmas,premium,2600,2600,high,low,6,namecheap,,,21/09/2026 21:24
 83c54551-8acb-42ea-b425-6cade0dd62c9,spend.christmas,available,34.99,34.99,high,low,5,namesilo,,,
+781106f3-310b-432f-a95a-b105f2d8e641,firing.christmas,available,34.99,34.99,high,low,6,namesilo,,,27/09/2026 03:58
 fc9a64fe-017c-47a6-b8f3-01556bfe028f,scorn.christmas,available,34.99,34.99,medium,low,5,namesilo,,,24/09/2026 17:41
 9761566b-c258-4592-856a-55cf09cd1b87,obsessed.christmas,available,1.8,49.98,medium,low,8,namecheap,,,21/08/2026 01:32
 58921051-ea6c-475c-ac4f-64bddfebf827,surefooted.christmas,available,1.8,49.98,high,low,10,namecheap,,,18/08/2026 10:50
-20222d50-85d8-46cf-8da5-b745a0000c17,urgent.christmas,available,34.99,34.99,high,low,6,namesilo,,,
+20222d50-85d8-46cf-8da5-b745a0000c17,urgent.christmas,available,1.8,49.98,high,low,6,namecheap,,,27/09/2026 06:05
 e20ac386-1d57-4c8f-b340-f798c530461c,titus.christmas,available,34.99,34.99,high,low,5,namesilo,,,25/09/2026 05:37
 6130159c-82ee-4ca5-8987-6878d9b2b398,vegas.christmas,premium,2500,2500,high,low,5,name.com,,,25/09/2026 15:39
 ae553c05-2d97-4c8a-ab8d-8f0fe6d4dc49,dividable.christmas,available,1.8,49.98,medium,low,9,namecheap,,,14/08/2026 13:41
@@ -918,7 +926,7 @@ d72aad9d-009f-4658-946d-9fc2b6bd153c,impacted.christmas,available,1.8,49.98,medi
 98e6627d-774f-4353-a61d-f9bffb37dfc5,humid.christmas,available,1.8,49.98,high,low,5,namecheap,,,21/08/2026 15:17
 223cfb18-3258-44bc-8a5b-4dc6c01ae552,charivari.christmas,available,1.8,49.98,medium,low,9,namecheap,,,23/09/2026 06:08
 543ff4cb-8f04-4961-a18d-4c078ae7473a,detector.christmas,available,34.99,34.99,high,low,8,namesilo,,,24/09/2026 21:49
-ffe63e25-7284-423e-a641-4eb4f2abec93,steak.christmas,available,49.98,,high,low,5,namecheap,,,
+ffe63e25-7284-423e-a641-4eb4f2abec93,steak.christmas,available,1.8,49.98,high,low,5,namecheap,,,27/09/2026 06:38
 418194b0-75b7-4c81-8a39-bd20fcd15667,urges.christmas,available,34.99,34.99,medium,low,5,namesilo,,,16/09/2026 09:15
 29523369-9bba-49e5-aa50-587159610706,euclidean.christmas,available,1.8,49.98,medium,low,9,namecheap,,,17/08/2026 14:06
 f945ec6a-f344-402f-bfb5-06ee37b65e17,apposite.christmas,available,1.8,49.98,medium,low,8,namecheap,,,06/08/2026 07:53
@@ -941,6 +949,7 @@ c722e920-0d9c-4145-a19f-e208883bd761,trepid.christmas,available,1.8,49.98,medium
 203ea552-6bff-4ecd-96e2-0ef558bc6ccc,reconciled.christmas,available,1.8,49.98,high,low,10,namecheap,,,09/09/2026 11:49
 3beeecda-09e8-4201-ae74-7ac01a6ed130,admiralty.christmas,available,34.99,34.99,medium,low,9,namesilo,,,17/09/2026 08:53
 5cadc66e-df62-4b24-aa31-8de38abb9a52,postural.christmas,available,1.8,49.98,medium,low,8,namecheap,,,09/09/2026 00:40
+833a6468-7e7d-4682-a504-582a5ed9f623,erwin.christmas,available,34.99,34.99,high,low,5,namesilo,,,27/09/2026 01:41
 9412f762-e347-4651-b2f4-effc094ca237,harper.christmas,available,34.99,34.99,high,low,6,namesilo,,,25/09/2026 06:58
 0f06d224-2238-4ee8-95c9-9d608c05ec05,malamud.christmas,available,1.8,49.98,medium,low,7,namecheap,,,23/09/2026 09:50
 b58b2800-5b3a-4a4c-8c6f-70114cec2818,aplomb.christmas,available,,,high,low,6,,,,19/09/2026 17:47
@@ -990,12 +999,3 @@ b7ba680a-5e4a-4bf7-afa6-0e8fb723732d,adjectives.christmas,available,34.99,34.99,
 b70ad0b4-3b88-492e-b4c7-bfecb76f5a65,inherent.christmas,available,34.99,34.99,high,low,8,namesilo,,,23/09/2026 10:30
 09d90714-8b70-42a0-9a0f-b8836fca94f0,precipitous.christmas,available,34.99,34.99,medium,low,11,namesilo,,,
 048016e3-b19e-4e91-8bc6-5ca48fd6fd40,blazer.christmas,available,34.99,34.99,high,low,6,namesilo,,,24/09/2026 05:03
-bde48bbc-efcf-413d-8ebf-4f9cbd296c01,ralph.christmas,premium,2660,2660,high,high,5,namesilo,,,25/09/2026 11:33
-1bdef22b-f9a8-490e-b1a2-096c89375f65,sock.christmas,available,1.8,49.98,high,low,4,namecheap,,,17/09/2026 21:43
-d1bca531-8105-488f-9e1a-254cceca3083,motorbus.christmas,available,34.99,34.99,medium,low,8,namesilo,,,21/09/2026 05:59
-fdd48aaa-803d-44fd-abae-1108a579b0d6,fijian.christmas,available,1.8,49.98,high,low,6,namecheap,,,18/08/2026 04:02
-b995e7e6-cc7e-433a-a391-3eee9c10d63c,audition.christmas,available,34.99,34.99,high,low,8,namesilo,,,21/09/2026 03:09
-961662aa-87cd-4875-9bdb-167d22ba908a,barcarole.christmas,available,34.99,34.99,medium,low,9,namesilo,,,22/09/2026 05:06
-2eb5c52c-624b-44a1-9737-f24851c0d60d,sic.christmas,available,1.8,49.98,high,low,3,namecheap,,,16/09/2026 01:41
-e803a51c-a23e-4f6c-a408-ef9d46e1351d,thatch.christmas,available,1.8,49.98,medium,low,6,namecheap,,,24/09/2026 02:04
-620448e9-04f4-4eac-8fd0-b0b3e458c348,riemannian.christmas,available,1.8,49.98,high,low,10,namecheap,,,09/09/2026 17:21
