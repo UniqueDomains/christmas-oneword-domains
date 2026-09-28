@@ -1,10 +1,10 @@
-# Available .CHRISTMAS One-Word Domains (23,824)
+# Available .CHRISTMAS One-Word Domains (24,346)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-23%2C824%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-24%2C346%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .christmas one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **23,824 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **24,346 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 23,824 domains · **Median ask:** $85.12 · **High-demand under $2,500:** 47
+**Public extract:** 1,000 rows · **Live catalog:** 24,346 domains · **Median ask:** $85.35 · **High-demand under $2,500:** 52
 
-**Last updated:** 2026-09-27
+**Last updated:** 2026-09-28
 **Canonical page:** `https://unique.domains/domains/tld/christmas`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain               | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                                 |
-| -------------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------------------------------------------------- |
-| famous.christmas     | available | $34.99    | $34.99        | high           | low    | 6      | namesilo                                                  |
-| return.christmas     | available | $34.99    | $34.99        | high           | low    | 6      | namesilo                                                  |
-| regions.christmas    | premium   | $2,600    | $2,600        | high           | medium | 7      | namecheap                                                 |
-| informed.christmas   | available | $34.99    | $34.99        | high           | low    | 8      | namesilo                                                  |
-| wild.christmas       | available | $34.99    | $34.99        | high           | medium | 4      | namesilo                                                  |
-| windows.christmas    | premium   | $2,660    | $2,660        | high           | medium | 7      | namesilo                                                  |
-| internal.christmas   | available | $34.99    | $34.99        | high           | low    | 8      | namesilo                                                  |
-| robots.christmas     | available | $34.99    | $34.99        | high           | medium | 6      | namesilo                                                  |
-| classified.christmas | available | $34.99    | $34.99        | high           | low    | 10     | namesilo                                                  |
-| child.christmas      | resell    | —         | —             | high           | low    | 5      | Global Domains International, Inc. DBA DomainCostClub.com |
-| outdoors.christmas   | available | $34.99    | $34.99        | high           | low    | 8      | namesilo                                                  |
-| stay.christmas       | available | $34.99    | $34.99        | high           | low    | 4      | namesilo                                                  |
-| portable.christmas   | available | $1.80     | $49.98        | high           | low    | 8      | namecheap                                                 |
-| initiative.christmas | available | $34.99    | $34.99        | high           | low    | 10     | namesilo                                                  |
-| abe.christmas        | available | $34.99    | $34.99        | high           | low    | 3      | namesilo                                                  |
-| lp.christmas         | premium   | $812.50   | —             | high           | low    | 3      | name.com                                                  |
-| baa.christmas        | available | $1.80     | $49.98        | high           | low    | 3      | namecheap                                                 |
-| creative.christmas   | resell    | —         | —             | high           | medium | 8      | Key-Systems, LLC                                          |
-| even.christmas       | premium   | $2,660    | $2,660        | high           | medium | 4      | namesilo                                                  |
-| bed.christmas        | available | $34.99    | $34.99        | high           | low    | 3      | namesilo                                                  |
+| domain             | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                                 |
+| ------------------ | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------------------------------------------------- |
+| abe.christmas      | available | $34.99    | $34.99        | high           | low    | 3      | namesilo                                                  |
+| child.christmas    | resell    | —         | —             | high           | low    | 5      | Global Domains International, Inc. DBA DomainCostClub.com |
+| lp.christmas       | premium   | $812.50   | —             | high           | low    | 3      | name.com                                                  |
+| baa.christmas      | available | $1.80     | $49.98        | high           | low    | 3      | namecheap                                                 |
+| creative.christmas | resell    | —         | —             | high           | medium | 8      | Key-Systems, LLC                                          |
+| even.christmas     | premium   | $2,660    | $2,660        | high           | medium | 4      | namesilo                                                  |
+| bed.christmas      | available | $34.99    | $34.99        | high           | low    | 3      | namesilo                                                  |
+| path.christmas     | premium   | $2,660    | $2,660        | high           | low    | 4      | namesilo                                                  |
+| bjs.christmas      | available | $34.99    | $34.99        | medium         | low    | 3      | namesilo                                                  |
+| push.christmas     | premium   | $2,500    | —             | high           | low    | 4      | name.com                                                  |
+| csa.christmas      | available | $34.99    | $34.99        | high           | low    | 3      | namesilo                                                  |
+| delta.christmas    | premium   | $2,500    | —             | high           | medium | 5      | name.com                                                  |
+| dji.christmas      | available | $34.99    | $34.99        | high           | low    | 3      | namesilo                                                  |
+| ellen.christmas    | premium   | $2,500    | —             | high           | low    | 5      | name.com                                                  |
+| eli.christmas      | available | $30.20    | $30.20        | high           | low    | 3      | cloudflare                                                |
+| joint.christmas    | premium   | $2,660    | $2,660        | high           | low    | 5      | namesilo                                                  |
+| fat.christmas      | available | $34.99    | $34.99        | high           | low    | 3      | namesilo                                                  |
+| jones.christmas    | premium   | $2,660    | $2,660        | high           | low    | 5      | namesilo                                                  |
+| has.christmas      | available | $34.99    | $34.99        | high           | low    | 3      | namesilo                                                  |
+| model.christmas    | premium   | $2,660    | $2,660        | high           | medium | 5      | namesilo                                                  |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,9 +93,9 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 23,824 live domains                        |
+| 1,000-row public sample | 24,346 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
-| Basic exported fields   | 47 high-demand names under $2,500          |
+| Basic exported fields   | 52 high-demand names under $2,500          |
 | No persistence          | Radar, saved search, and alerts            |
 | No founder workflow     | Project, shortlist, and next-step workflow |
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .CHRISTMAS One-Word Domains*. Version 2026-09-27. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .CHRISTMAS One-Word Domains*. Version 2026-09-28. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
