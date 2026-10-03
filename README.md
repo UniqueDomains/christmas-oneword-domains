@@ -1,10 +1,10 @@
-# Available .CHRISTMAS One-Word Domains (33,452)
+# Available .CHRISTMAS One-Word Domains (35,802)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-33%2C452%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-35%2C802%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .christmas one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **33,452 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **35,802 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 33,452 domains · **Median ask:** $82.39 · **High-demand under $2,500:** 108
+**Public extract:** 1,000 rows · **Live catalog:** 35,802 domains · **Median ask:** $81.05 · **High-demand under $2,500:** 121
 
-**Last updated:** 2026-10-02
+**Last updated:** 2026-10-03
 **Canonical page:** `https://unique.domains/domains/tld/christmas`
 **Best for:** founders, investors, studios
 
@@ -67,23 +67,23 @@ print(df.head())
 | abe.christmas    | available | $34.99    | $34.99        | high           | low    | 3      | namesilo                                                  |
 | child.christmas  | resell    | —         | —             | high           | low    | 5      | Global Domains International, Inc. DBA DomainCostClub.com |
 | lp.christmas     | premium   | $672.95   | $672.95       | high           | low    | 3      | spaceship                                                 |
+| aif.christmas    | available | $34.99    | $34.99        | medium         | low    | 3      | namesilo                                                  |
+| elis.christmas   | premium   | $2,200    | $2,200        | high           | medium | 4      | dynadot                                                   |
 | bed.christmas    | available | $34.99    | $34.99        | high           | low    | 3      | namesilo                                                  |
 | even.christmas   | premium   | $2,660    | $2,660        | high           | medium | 4      | namesilo                                                  |
 | bjs.christmas    | available | $34.99    | $34.99        | medium         | low    | 3      | namesilo                                                  |
+| hain.christmas   | premium   | $2,183.84 | $2,183.84     | high           | low    | 4      | porkbun                                                   |
+| bsp.christmas    | available | $1.24     | $31.16        | high           | low    | 3      | spaceship                                                 |
 | path.christmas   | premium   | $2,660    | $2,660        | high           | low    | 4      | namesilo                                                  |
 | cfr.christmas    | available | $30.20    | $30.20        | medium         | low    | 3      | cloudflare                                                |
 | push.christmas   | premium   | $2,183.84 | $2,183.84     | high           | medium | 4      | porkbun                                                   |
 | cme.christmas    | available | $34.99    | $34.99        | high           | low    | 3      | namesilo                                                  |
-| ellen.christmas  | premium   | $2,500    | —             | high           | low    | 5      | name.com                                                  |
-| csa.christmas    | available | $34.99    | $34.99        | high           | low    | 3      | namesilo                                                  |
+| ellen.christmas  | premium   | $2,660    | $2,660        | high           | low    | 5      | namesilo                                                  |
+| cox.christmas    | available | $34.99    | $34.99        | high           | low    | 3      | namesilo                                                  |
 | joint.christmas  | premium   | $2,660    | $2,660        | high           | low    | 5      | namesilo                                                  |
-| eli.christmas    | available | $30.20    | $30.20        | high           | low    | 3      | cloudflare                                                |
-| jones.christmas  | premium   | $2,660    | $2,660        | high           | low    | 5      | namesilo                                                  |
-| fat.christmas    | available | $34.99    | $34.99        | high           | low    | 3      | namesilo                                                  |
+| csa.christmas    | available | $34.99    | $34.99        | high           | low    | 3      | namesilo                                                  |
 | austin.christmas | premium   | $2,660    | $2,660        | high           | low    | 6      | namesilo                                                  |
-| fbs.christmas    | available | $30.20    | $30.20        | high           | low    | 3      | cloudflare                                                |
-| dwight.christmas | premium   | $2,070.20 | $2,070.20     | medium         | low    | 6      | spaceship                                                 |
-| gaa.christmas    | available | $34.99    | $34.99        | high           | low    | 3      | namesilo                                                  |
+| eli.christmas    | available | $30.20    | $30.20        | high           | low    | 3      | cloudflare                                                |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,9 +93,9 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 33,452 live domains                        |
+| 1,000-row public sample | 35,802 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
-| Basic exported fields   | 108 high-demand names under $2,500         |
+| Basic exported fields   | 121 high-demand names under $2,500         |
 | No persistence          | Radar, saved search, and alerts            |
 | No founder workflow     | Project, shortlist, and next-step workflow |
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .CHRISTMAS One-Word Domains*. Version 2026-10-02. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .CHRISTMAS One-Word Domains*. Version 2026-10-03. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
